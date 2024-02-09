@@ -1,0 +1,33 @@
+.nav-container {
+  background-color: #ffffff33;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo {
+  height: 40px;
+  width: 80px;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+.logo-name {
+  font-size: 25px;
+  font-weight: bold;
+  color: #ffffff;
+}
+.score {
+  color: #ffffff;
+  margin-right: 20px;
+  font-size: 25px;
+}
+.Navbar-text-container {
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,55 @@
+.bot-page-container {
+  background-image: linear-gradient(top bottom, #9796f0, #fbc7d4);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+.ul-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.page-container {
+  background-image: linear-gradient(#9796f0, #fbc7d4);
+}
+.loss-container {
+  background-color: #ffffff33;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 70px;
+}
+.loss-container-text-container {
+  display: flex;
+  flex-direction: column;
+  margin-right: 40px;
+}
+.loss-con-heading {
+  color: #ffffff;
+  font-size: 32px;
+  font-weight: bold;
+}
+.loss-con-para {
+  color: #ffffff;
+  font-size: 20px;
+}
+.loss-con-score {
+  color: #6a59ff;
+  font-weight: bold;
+  font-size: 32px;
+}
+.play-button {
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #ffce27;
+  color: #000000;
+  border: none;
+}
+.loss-con-image {
+  height: 350px;
+  width: 300px;
+}
